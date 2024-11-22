@@ -1,0 +1,118 @@
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.onboarding {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.onboarding__image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+
+  img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.onboarding__main {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px;
+  background: linear-gradient(to top, $color-main 40%, transparent);
+  border-radius: 20px 20px 0 0;
+}
+
+.onboarding__bottom {
+  color: $color-white;
+  text-align: center;
+}
+
+.onboarding__text {
+  margin-top: 10px;
+
+  h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    @include tablet {
+      font-size: 4em;
+    }
+  }
+
+  p {
+    font-size: 14px;
+    line-height: 1.5;
+    @include tablet {
+      font-size: 1.5em;
+    }
+  }
+}
+
+.onboarding__main-button {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.onboarding__button {
+  position: relative;
+  width: 300px;
+  height: 50px;
+  background-color: $color-white;
+  color: $color-main;
+  font-weight: 600;
+  border: none;
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color 0.3s;
+
+  .button-text {
+    flex-grow: 1;
+    text-align: left;
+  }
+
+
+
+  &:hover {
+    background-color: $color-main3;
+    color: white;
+  }
+}
+.drag-handle {
+  position: relative;
+  z-index: 2;
+  width: 40px;
+  height: 40px;
+  background-color: $color-white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+  .arrow {
+    font-size: 16px;
+    color: $color-main;
+  }
+}

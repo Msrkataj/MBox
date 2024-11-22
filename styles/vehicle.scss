@@ -1,0 +1,102 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 100vh;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #333;
+  text-align: center;
+}
+
+.inputContainer {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.label {
+  font-size: 16px;
+  margin-bottom: 5px;
+  color: #555;
+}
+
+.input {
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 16px;
+  background-color: #fff;
+}
+
+.continueContainer {
+  display: flex;
+  align-items: center;
+  margin-top: auto;
+  padding-bottom: 50px;
+}
+
+.button {
+  position: relative;
+  width: 300px;
+  height: 50px;
+  border: none;
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.buttonActive {
+  background-color: #0347ff;
+  color: #fff;
+}
+
+.buttonDisabled {
+  background-color: rgba(3, 71, 255, 0.1);
+  color: #999;
+  cursor: not-allowed;
+}
+
+.dragHandle,
+.dragHandleDisabled {
+  position: relative;
+  z-index: 2;
+  width: 40px;
+  height: 40px;
+  background-color: #fff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.dragHandle {
+  background-color: #fff;
+}
+
+.dragHandleDisabled {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.arrow {
+  font-size: 16px;
+  color: #0347ff;
+}
+
+.arrowDisabled {
+  font-size: 16px;
+  color: rgba(3, 71, 255, 0.4);
+}

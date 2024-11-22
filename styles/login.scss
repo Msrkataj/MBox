@@ -1,0 +1,141 @@
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  @include tablet {
+    max-width: 800px;
+  }
+}
+
+.login {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.login-image {
+  position: relative;
+  width: 200%;
+  height: 300px;
+  margin-bottom: 30px;
+  @include tablet {
+    width: 1000px;
+    height: 400px;
+  }
+
+  img {
+    object-fit: contain;
+  }
+}
+
+.login-main {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+
+.login-label {
+  font-size: 14px;
+  font-weight: 600;
+  align-self: flex-start;
+  @include tablet {
+    align-self: center;
+  }
+}
+
+.login-input {
+  width: 100%;
+  max-width: 300px;
+  padding: 12px;
+  border: 1px solid $color-black2;
+  border-radius: 8px;
+  outline: none;
+  margin-bottom: 20px;
+
+  &:focus {
+    border-color: $color-main;
+    box-shadow: 0 0 5px rgba(3, 71, 255, 0.5);
+  }
+}
+
+.login-button-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+
+  @include tablet {
+    margin-top: 100px;
+  }
+}
+
+.login-button {
+  position: relative;
+  width: 280px;
+  height: 60px;
+  background-color: $color-main;
+  color: $color-white;
+  font-weight: 600;
+  border: none;
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 10px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color 0.3s;
+
+  .button-text {
+    flex-grow: 1;
+    text-align: left;
+    margin-left: 10px;
+  }
+
+  .drag-handle {
+    position: absolute;
+    right: -15px;
+    width: 60px;
+    height: 60px;
+    background-color: $color-white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+    .arrow {
+      font-size: 16px;
+      color: $color-main;
+    }
+  }
+
+  &:hover {
+    background-color: $color-main3;
+    color: white;
+  }
+}
+
+.login-footer {
+  margin-top: 20px;
+  font-size: 12px;
+  color: $color-black;
+
+  strong {
+    color: $color-main;
+  }
+
+  span {
+    display: flex;
+    align-items: center;
+
+    &:before {
+      content: "✔";
+      color: $color-main;
+      margin-right: 5px;
+    }
+  }
+
+}

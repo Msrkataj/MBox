@@ -1,0 +1,153 @@
+.special-requirements-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 100vh;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  background-color: #f9f9f9;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 16px;
+  color: #333;
+  text-align: center;
+}
+
+.inputContainer {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.label {
+  font-size: 16px;
+  margin-bottom: 8px;
+  color: #555;
+  font-weight: 600;
+}
+
+.input {
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 12px;
+  font-size: 16px;
+  background-color: #fff;
+  transition: border-color 0.3s;
+}
+
+.input:focus {
+  border-color: #0347ff;
+  outline: none;
+}
+
+.continueContainer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  position: sticky;
+  bottom: 20px;
+  padding-top: 20px;
+  background-color: #f9f9f9;
+}
+
+.license-details__button {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 300px;
+  height: 50px;
+  border: none;
+  border-radius: 30px;
+  padding: 0 20px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color 0.3s;
+  font-size: 16px;
+}
+
+.license-details__button.disabled {
+  background-color: rgba(3, 71, 255, 0.1);
+  color: #999;
+  cursor: not-allowed;
+}
+
+.license-details__button.active {
+  background-color: #0347ff;
+  color: #fff;
+}
+
+.drag-handle {
+  position: relative;
+  z-index: 2;
+  width: 40px;
+  height: 40px;
+  background-color: #fff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.arrow {
+  font-size: 16px;
+  color: #0347ff;
+}
+
+.selectedOptionsContainer {
+  margin-bottom: 20px;
+  padding: 15px;
+  background-color: #eef4fb;
+  border-radius: 10px;
+  width: 100%;
+}
+
+.selectedOptionText {
+  font-size: 16px;
+  color: #1f73b7;
+  margin-bottom: 8px;
+}
+
+.textArea {
+  width: 100%;
+  height: 100px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  background-color: #fff;
+  transition: border-color 0.3s;
+}
+
+.textArea:focus {
+  border-color: #0347ff;
+  outline: none;
+}
+
+.subtitle {
+  font-size: 16px;
+  color: #777;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.sectionTitle {
+  font-size: 18px;
+  font-weight: bold;
+  color: #1f73b7;
+  margin-bottom: 10px;
+}
+
+.noSelectionText {
+  font-size: 16px;
+  color: #999;
+  text-align: center;
+  margin-top: 20px;
+}

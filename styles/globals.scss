@@ -1,0 +1,55 @@
+@import "reset";
+@import "settings/variables";
+@import "settings/colors";
+@import "settings/fonts";
+@import "onboarding";
+@import "login";
+@import "choose";
+@import "license";
+@import "offfer";
+@import "premium";
+@import "test";
+@import "test-dates";
+@import "email";
+@import "home";
+@import "settings";
+@import "support";
+@import "booking";
+@import "privacy";
+@import "info";
+@import "vehicle";
+@import "special";
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+html {
+  font-size: 12px;
+  text-decoration: none;
+}
+
+body {
+  font-size: 14px;
+  color: black;
+  overflow-x: hidden;
+  overflow-y: auto;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+main {
+  min-height: 65vh;
+
+}
+body.no-scroll, html.no-scroll {
+  overflow: hidden;
+}
+
+
+a {
+  text-decoration: none !important;
+  cursor: pointer;
+
+}
+
+h1 {
+  font-size: 2em;
+}

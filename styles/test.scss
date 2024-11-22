@@ -1,0 +1,133 @@
+.test-centres {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  padding: 20px;
+  justify-content: space-between; // Sprawia, że elementy są rozłożone na całej wysokości strony
+  max-width: 800px;
+  margin: 0 auto;
+  h1 {
+    font-size: 2em;
+    font-weight: bold;
+    margin: 30px 0 10px 10px;
+    text-align: left;
+  }
+
+  .subtitle {
+    font-size: 1em;
+    color: #7d7d7d;
+    margin: 0 0 20px 10px;
+    text-align: left;
+  }
+
+  &__search {
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+
+    .search-box {
+      flex-grow: 1;
+      padding: 10px 40px 10px 10px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      font-size: 14px;
+    }
+
+    .search-icon {
+      position: absolute;
+      right: 10px;
+      width: 20px;
+      height: 20px;
+    }
+  }
+
+  .centres-list {
+    flex-grow: 1; // Element rośnie, zajmując dostępne miejsce
+    overflow-y: auto; // Dodaje przewijanie w pionie, jeśli lista jest za długa
+    margin-bottom: 20px;
+
+    .centre-item {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      padding: 20px 10px;
+      border-bottom: 1px solid #e0e0e0;
+      cursor: pointer;
+      transition: background-color 0.3s;
+      font-weight: 600;
+      &:hover {
+        background-color: #f1f1f1;
+      }
+
+      &.selected {
+        color: $color-main;
+      }
+
+      input {
+        margin-right: 10px;
+      }
+      .location-icon {
+        margin-left: 10px;
+        color: $color-main;
+      }
+      .centre-details {
+
+        p {
+          margin: 10px;
+          color: $color-grey;
+          font-size: 0.9em;
+        }
+      }
+    }
+  }
+
+  .continue-button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    visibility: hidden; // Domyślnie ukrywa przycisk
+    &.active {
+      visibility: visible; // Wyświetla przycisk, gdy spełniony jest warunek
+    }
+  }
+
+  .continue-button {
+    position: relative;
+    width: 300px;
+    height: 50px;
+    background-color: $color-main;
+    color: white;
+    font-weight: 600;
+    border: none;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s;
+
+    &:hover {
+      background-color: darken($color-main, 10%);
+    }
+
+    .drag-handle {
+      position: relative;
+      width: 40px;
+      height: 40px;
+      background-color: white;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+      .arrow {
+        font-size: 16px;
+        color: $color-main;
+      }
+    }
+  }
+}

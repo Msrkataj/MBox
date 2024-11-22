@@ -1,0 +1,71 @@
+[
+  {
+    "licenseNumber": "aaa",
+    "applicationRef": "aaa",
+    "selectedTest": {
+      "id": 1,
+      "name": "Car (manual and automatic)",
+      "icon": "/assets/sports-car.png"
+    },
+    "extendedTest": "yes",
+    "specialRequirements": "yes",
+    "isPremium": true,
+    "selectedCentres": [
+      "Aberdeen North Test Centre",
+      "Abergavenny Test Centre",
+      "Aberfeldy Test Centre",
+      "Alness Test Centre"
+    ],
+    "availability": {
+      "day": "Friday",
+      "time": "12:00-4:30 (PM)"
+    }
+  },
+  {
+    "licenseNumber": "asa",
+    "extendedTest": "yes",
+    "specialRequirements": "yes",
+    "notifications": []
+  },
+  {
+    "licenseNumber": "ss",
+    "applicationRef": "s",
+    "selectedTest": {
+      "id": 3,
+      "name": "Lorries",
+      "icon": "/assets/lorry.png"
+    }
+  },
+  {
+    "licenseNumber": "fd",
+    "extendedTest": "yes",
+    "specialRequirements": "no",
+    "notifications": []
+  },
+  {
+    "licenseNumber": "dd",
+    "applicationRef": "dd",
+    "selectedTest": {
+      "id": 1,
+      "name": "Car (manual and automatic)",
+      "icon": "/assets/sports-car.png"
+    },
+    "extendedTest": "yes",
+    "specialRequirements": "yes",
+    "isPremium": true,
+    "selectedCentres": [
+      "Aberfeldy Test Centre",
+      "Alnwick Test Centre"
+    ],
+    "availability": {
+      "day": "Friday",
+      "time": "9:00-12:00 (AM)"
+    }
+  },
+  {
+    "licenseNumber": "ddd",
+    "extendedTest": "yes",
+    "specialRequirements": "yes",
+    "notifications": []
+  }
+]

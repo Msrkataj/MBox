@@ -1,0 +1,1557 @@
+[
+  {
+    "name": "Aberdeen North Test Centre",
+    "address": "Cloverhill Road, Bridge of Don, Aberdeen, Aberdeenshire",
+    "postalCode": "AB23 8FE"
+  },
+  {
+    "name": "Aberfeldy Test Centre",
+    "address": "Town Hall, Crieff Road, Aberfeldy, Perth and Kinross County",
+    "postalCode": "PH15 2BJ"
+  },
+  {
+    "name": "Abergavenny Test Centre",
+    "address": "Station Road, Abergavenny, Monmouthshire",
+    "postalCode": "NP7 5HT"
+  },
+  {
+    "name": "Aberystwyth (Park Avenue) Test Centre",
+    "address": "Yr Hen Ysgol, Alexandra Road, Aberystwyth, Dyfed",
+    "postalCode": "SY23 1LE"
+  },
+  {
+    "name": "Airdrie Test Centre",
+    "address": "7 Aitchison Street, Sword Street, Airdrie, Lanarkshire",
+    "postalCode": "ML6 0DA"
+  },
+  {
+    "name": "Alness Test Centre",
+    "address": "Unit 22 Fyrish Way, Alness, Ross-shire",
+    "postalCode": "IV17 0PJ"
+  },
+  {
+    "name": "Alnwick Test Centre",
+    "address": "Roxburgh House, Green Batt, Alnwick, Northumberland",
+    "postalCode": "NE66 1LA"
+  },
+  {
+    "name": "Arbroath Test Centre",
+    "address": "1 Lochlands Drive, Arbroath, Angus",
+    "postalCode": "DD11 3AT"
+  },
+  {
+    "name": "Ashford (Kent) Test Centre",
+    "address": "Ground Floor, Civic Centre, Tannery Lane, Ashford, Kent",
+    "postalCode": "TN23 1PL"
+  },
+  {
+    "name": "Ashford (Middlesex) Test Centre",
+    "address": "18/19 Fir Tree Place, Church Road, Ashford, Middlesex",
+    "postalCode": "TW15 2PH"
+  },
+  {
+    "name": "Atherton MPTC Test Centre",
+    "address": "Gibfield Park Avenue, Atherton, Lancashire",
+    "postalCode": "M46 0SY"
+  },
+  {
+    "name": "Aylesbury Test Centre",
+    "address": "Unit 9 Ground Floor, Bell Business Park, Aylesbury, Buckinghamshire",
+    "postalCode": "HP19 8JR"
+  },
+  {
+    "name": "Bala Test Centre",
+    "address": "Unit 4, Penllyn Workshops, Bala, Gwynedd",
+    "postalCode": "LL23 7SP"
+  },
+  {
+    "name": "Ballater Test Centre",
+    "address": "The Lecture Room, Ballater Fire Station Anderson Road, Ballater, Aberdeenshire",
+    "postalCode": "AB35 5QW"
+  },
+  {
+    "name": "Banbury Test Centre",
+    "address": "3 West Bar Street, Banbury, Oxfordshire",
+    "postalCode": "OX16 9SD"
+  },
+  {
+    "name": "Banff Test Centre",
+    "address": "C/O Dept. of Employment, 23/25 Castle Street, Banff, Aberdeenshire",
+    "postalCode": "AB45 1DJ"
+  },
+  {
+    "name": "Bangor MPTC Test Centre",
+    "address": "Llandygai Industrial Estate, Llandygai, Bangor, Gwynedd",
+    "postalCode": "LL57 4YH"
+  },
+  {
+    "name": "Barking Test Centre",
+    "address": "84 Tanner Street, Barking, Essex",
+    "postalCode": "IG11 8QF"
+  },
+  {
+    "name": "Barnet Test Centre",
+    "address": "Raydean House 15/17 Western Parade, Barnet, Middlesex",
+    "postalCode": "EN5 1AD"
+  },
+  {
+    "name": "Barnsley Test Centre",
+    "address": "West Road, Barnsley, South Yorkshire",
+    "postalCode": "S75 2DH"
+  },
+  {
+    "name": "Barnstaple Test Centre",
+    "address": "Unit 1A, Benning Court (off Riverside Road), Pottington Industrial Estate, Barnstaple, Devon",
+    "postalCode": "EX31 1AB"
+  },
+  {
+    "name": "Barrow-In-Furness Test Centre",
+    "address": "Trinity Enterprise Centre, Unit 11 Ironworks Road, Barrow-In-Furness, Cumbria",
+    "postalCode": "LA14 2PN"
+  },
+  {
+    "name": "Basildon MPTC Test Centre",
+    "address": "Paycocke Road, Basildon, Essex",
+    "postalCode": "SS14 3JS"
+  },
+  {
+    "name": "Basingstoke Test Centre",
+    "address": "Brighton Hill Centre, Basingstoke, Hampshire",
+    "postalCode": "RG22 4LR"
+  },
+  {
+    "name": "Bathgate Test Centre",
+    "address": "74 Glasgow Road, Bathgate, Edinburgh, West Lothian",
+    "postalCode": "EH48 2AG"
+  },
+  {
+    "name": "Bedford Test Centre",
+    "address": "Portman House, 59/63 Goldington Road, Bedford, Bedfordshire",
+    "postalCode": "MK40 3LT"
+  },
+  {
+    "name": "Belvedere Test Centre",
+    "address": "33 Woolwich Road, Belvedere, Kent",
+    "postalCode": "DA17 5EE"
+  },
+  {
+    "name": "Bettyhill Test Centre",
+    "address": "C/O Bettyhill Post Office, Bettyhill, Thurso, Caithness",
+    "postalCode": "KW14 7SP"
+  },
+  {
+    "name": "Beverley LGV Test Centre",
+    "address": "Old Beck Road, off Groveshill Road, Beverley, North Humberside",
+    "postalCode": "HU17 0JG"
+  },
+  {
+    "name": "Birmingham (Cocks Moor Woods) Test Centre",
+    "address": "Cocks Moors Woods Leisure Centre, Alcester Road, S. Kings Heath, Birmingham, West Midlands",
+    "postalCode": "B14 6ER"
+  },
+  {
+    "name": "Birmingham (Kings Heath) Test Centre",
+    "address": "955 Alcester Road South, Birmingham, West Midlands",
+    "postalCode": "B14 5JA"
+  },
+  {
+    "name": "Birmingham (Kingstanding) Test Centre",
+    "address": "205 Birdbrook Road, Kingstanding, Birmingham, West Midlands",
+    "postalCode": "B44 9UL"
+  },
+  {
+    "name": "Birmingham (Shirley) Test Centre",
+    "address": "401 Stratford Road, Shirley, Solihull, West Midlands",
+    "postalCode": "B90 4AA"
+  },
+  {
+    "name": "Birmingham (South Yardley) Test Centre",
+    "address": "Clay Lane, South Yardley, West Midlands",
+    "postalCode": "B26 1EA"
+  },
+  {
+    "name": "Birmingham (Sutton Coldfield) Test Centre",
+    "address": "110/116 Boldmere Road, Sutton Coldfield, West Midlands",
+    "postalCode": "B73 5UB"
+  },
+  {
+    "name": "Birmingham Garretts Green MPTC Test Centre",
+    "address": "Granby Avenue, Garretts Green, Birmingham, West Midlands",
+    "postalCode": "B33 0TJ"
+  },
+  {
+    "name": "Bishops Stortford Test Centre",
+    "address": "South Road, Bishops Stortford, Hertfordshire",
+    "postalCode": "CM23 3LD"
+  },
+  {
+    "name": "Blackburn with Darwen MPTC Test Centre",
+    "address": "Blackburn Interchange, Commercial Road, Darwen, Blackburn, Lancashire",
+    "postalCode": "BB3 0DB"
+  },
+  {
+    "name": "Bletchley Test Centre",
+    "address": "Block 4 Government Buildings, Wilton Hostel, Wilton Avenue, Bletchley",
+    "postalCode": "MK3 6DH"
+  },
+  {
+    "name": "Blyth Test Centre",
+    "address": "Unit 3 Sextant House, Freehold Street, Blyth, Northumberland",
+    "postalCode": "NE24 3BA"
+  },
+  {
+    "name": "Bodmin Test Centre",
+    "address": "Driving Test Centre Bodmin Beatrice Road, Units 32 - 36, Walker Lines Offices, Beatrice Road, Bodmin, Cornwall",
+    "postalCode": "PL31 1RD"
+  },
+  {
+    "name": "Bolton Test Centre",
+    "address": "Weston Street, Bolton, Lancashire",
+    "postalCode": "BL3 2AW"
+  },
+  {
+    "name": "Borehamwood Test Centre",
+    "address": "Unit 1 Stirling Court, Stirling Way, Borehamwood, Hertfordshire",
+    "postalCode": "WD6 2BT"
+  },
+  {
+    "name": "Boston Test Centre",
+    "address": "Unit 2 Plot 3, Redstone Industrial Estate, Spalding Road, Boston, Lincolnshire",
+    "postalCode": "PE21 8AL"
+  },
+  {
+    "name": "Bournemouth Test Centre",
+    "address": "21/23 Gillam Road, Northbourne, Bournemouth",
+    "postalCode": "BH10 6BW"
+  },
+  {
+    "name": "Bradford (Thornbury) Test Centre",
+    "address": "The Courtyard, Midpoint, Thornbury, Bradford, West Yorkshire",
+    "postalCode": "BD3 7AY"
+  },
+  {
+    "name": "Bradford (Heaton) Test Centre",
+    "address": "15 Farfield Street, Heaton, Bradford, West Yorkshire",
+    "postalCode": "BD09 5AS"
+  },
+  {
+    "name": "Brecon Test Centre",
+    "address": "Camden Road, Brecon, Powys",
+    "postalCode": "LD3 7RY"
+  },
+  {
+    "name": "Brentwood Test Centre",
+    "address": "89 Warley Hill, Brentwood, Essex",
+    "postalCode": "CM14 5JN"
+  },
+  {
+    "name": "Bridgend Test Centre",
+    "address": "Crown Buildings, Angel Street, Bridgend, Mid Glamorgan",
+    "postalCode": "CF31 4AD"
+  },
+  {
+    "name": "Bridlington Test Centre",
+    "address": "Crown Buildings, Quay Road, Bridlington, North Humberside",
+    "postalCode": "YO16 4LY"
+  },
+  {
+    "name": "Bristol (Avonmouth) Test Centre",
+    "address": "Unit M6, Cabot Park Merebank Road, Avonmouth, City of Bristol",
+    "postalCode": "BS11 8AQ"
+  },
+  {
+    "name": "Bristol (Brislington) Test Centre",
+    "address": "Government Buildings, Flowers Hill, Bath Road, Bristol, Avon",
+    "postalCode": "BS4 5JX"
+  },
+  {
+    "name": "Bristol (Southmead) Test Centre",
+    "address": "2 Concord Drive, Southmead, Bristol, Avon",
+    "postalCode": "BS10 6PZ"
+  },
+  {
+    "name": "Bristol MPTC Test Centre",
+    "address": "Siston Centre, Kingswood, Bristol, Avon",
+    "postalCode": "BS15 4GQ"
+  },
+  {
+    "name": "Buckie Test Centre",
+    "address": "The Fire Station, East Cathcart Street, Buckie, Banffshire",
+    "postalCode": "AB56 1QJ"
+  },
+  {
+    "name": "Burgess Hill MPTC Test Centre",
+    "address": "Driving Standards Agency, Burgess Hill MPTC, William Way, Burgess Hill, West Sussex",
+    "postalCode": "RH15 9AG"
+  },
+  {
+    "name": "Burton on Trent MPTC Test Centre",
+    "address": "Wellington Road, Burton on Trent, Derbyshire",
+    "postalCode": "DE14 2TG"
+  },
+  {
+    "name": "Bury (Lancs) Test Centre",
+    "address": "Smith Street, Bury, Lancashire",
+    "postalCode": "BL9 6HH"
+  },
+  {
+    "name": "Bury St Edmunds Test Centre",
+    "address": "Tritron House, St Andrews Street North, Bury St Edmunds, Suffolk",
+    "postalCode": "IP33 1TJ"
+  },
+  {
+    "name": "Buxton Test Centre",
+    "address": "The Dairy, 7 Green Lane, Buxton, Derbyshire",
+    "postalCode": "SK17 9DS"
+  },
+  {
+    "name": "Callander Test Centre",
+    "address": "Burgh Chambers, South Church Street, Callander, Perthshire",
+    "postalCode": "FK17 8BN"
+  },
+  {
+    "name": "Cambridge (Brookmount Court) Test Centre",
+    "address": "Units A & B Brookmount Court, Kirkwood Road, Cambridgeshire",
+    "postalCode": "CB4 2QH"
+  },
+  {
+    "name": "Cambridge (Chesterton Road) Test Centre",
+    "address": "73/79 Chesterton Road, Cambridge, Cambridgeshire",
+    "postalCode": "CB4 3AP"
+  },
+  {
+    "name": "Cambridge (Cowley Road) Test Centre",
+    "address": "Cowley Road, Cambridge, Cambridgeshire",
+    "postalCode": "CB4 0DT"
+  },
+  {
+    "name": "Campbeltown Test Centre",
+    "address": "Crown Buildings, Hall Street, Campbeltown, Argyll",
+    "postalCode": "PA28 6BD"
+  },
+  {
+    "name": "Cannock Test Centre",
+    "address": "Suite 3 ground floor, Commerce House, Ridings Park (off Phoenix Road), Hawks Green Lane, Cannock, Staffordshire",
+    "postalCode": "WS11 7FJ"
+  },
+  {
+    "name": "Canterbury Test Centre",
+    "address": "25 New Dover Road, Canterbury, Kent",
+    "postalCode": "CT1 3AS"
+  },
+  {
+    "name": "Cardiff (Llanishen) Test Centre",
+    "address": "Thornbury House, Unit 11 Lambourne Crescent, Cardiff Business Park, Cardiff, South Glamorgan",
+    "postalCode": "CF14 5GF"
+  },
+  {
+    "name": "Cardiff (Fairwater) Test Centre",
+    "address": "30 Norbury Road, Fairwater, Cardiff, South Glamorgan",
+    "postalCode": "CF5 3AU"
+  },
+  {
+    "name": "Cardigan Test Centre",
+    "address": "Crown Buildings, Napier Street, Cardigan, Dyfed",
+    "postalCode": "SA43 1ED"
+  },
+  {
+    "name": "Carlisle MPTC Test Centre",
+    "address": "Port Road Business Park, Port Road, Carlisle, Cumbria",
+    "postalCode": "CA2 7AF"
+  },
+  {
+    "name": "Carmarthen Test Centre",
+    "address": "Ty Myrddin, Crown Building, Old Station Road, Carmarthen, Dyfed",
+    "postalCode": "SA31 1GS"
+  },
+  {
+    "name": "Castle Douglas Test Centre",
+    "address": "Carlingwark Cottage, Carlingwark Arc, Buchan Street, Castle Douglas, Kirkcudbrightshire",
+    "postalCode": "DG7 1TH"
+  },
+  {
+    "name": "Cheetham Hill Test Centre",
+    "address": "Alderglen Road, Cheetham, Manchester, Greater Manchester",
+    "postalCode": "M8 0TD"
+  },
+  {
+    "name": "Chelmsford (Hanbury Road) Test Centre",
+    "address": "Hanbury Road, Widford Industrial Estate, Chelmsford, Essex",
+    "postalCode": "CM1 3DR"
+  },
+  {
+    "name": "Cheltenham Test Centre",
+    "address": "Bishopsgate House, 94 All Saints Road, Cheltenham, Gloucestershire",
+    "postalCode": "GL52 2HQ"
+  },
+  {
+    "name": "Chertsey Test Centre",
+    "address": "Unit 4, The Forum, Hanworth Industrial Estate, Hanworth Lane, Chertsey, Surrey",
+    "postalCode": "KT16 9JX"
+  },
+  {
+    "name": "Chester MPTC Test Centre",
+    "address": "Front Parade Ground, Saighton Camp, Huntington, Chester, Cheshire",
+    "postalCode": "CH3 5UE"
+  },
+  {
+    "name": "Chesterfield Test Centre",
+    "address": "Bus Garage Approach Road, Stonegravels, Chesterfield, Derbyshire",
+    "postalCode": "S41 7LF"
+  },
+  {
+    "name": "Chichester Test Centre",
+    "address": "Wyman House, Shopwhyke Road, Chichester, West Sussex",
+    "postalCode": "PO20 2AA"
+  },
+  {
+    "name": "Chingford Test Centre",
+    "address": "Doric House, 128 Station Road, Chingford, Essex",
+    "postalCode": "E4 6AD"
+  },
+  {
+    "name": "Chippenham Test Centre",
+    "address": "Unit 11 Cavalier Court, Bumpers Farm, Chippenham, Wiltshire",
+    "postalCode": "SN14 6LH"
+  },
+  {
+    "name": "Chorley Test Centre",
+    "address": "Rossall Road, Chorley, Lancashire",
+    "postalCode": "PR6 0BT"
+  },
+  {
+    "name": "Clacton-on-Sea Test Centre",
+    "address": "103/105 Carnarvon Road, Clacton-on-Sea, Essex",
+    "postalCode": "CO15 6PR"
+  },
+  {
+    "name": "Colchester Test Centre",
+    "address": "Grange Way, Colchester, Essex",
+    "postalCode": "CO2 8HF"
+  },
+  {
+    "name": "Congleton Test Centre",
+    "address": "27 West Street, Congleton, Cheshire",
+    "postalCode": "CW12 1JN"
+  },
+  {
+    "name": "Coventry (Bayton Road) Test Centre",
+    "address": "42 Bayton Road, Coventry, West Midlands",
+    "postalCode": "CV7 9EJ"
+  },
+  {
+    "name": "Crawley Test Centre",
+    "address": "Unit 2 The Pavillions, Brighton Road, Pease Pottage, Crawley, West Sussex",
+    "postalCode": "RH11 9BJ"
+  },
+  {
+    "name": "Crewe Test Centre",
+    "address": "6 Nile Street, Crewe, Cheshire",
+    "postalCode": "CW2 7LL"
+  },
+  {
+    "name": "Crieff Test Centre",
+    "address": "Crieff Fire Station, Broich Road, Crieff, Perthshire",
+    "postalCode": "PH7 3SB"
+  },
+  {
+    "name": "Croydon Test Centre",
+    "address": "111 Canterbury Road, Croydon, Surrey",
+    "postalCode": "CR0 3HH"
+  },
+  {
+    "name": "Cumnock Test Centre",
+    "address": "The Town Hall, Hall Terrace, Cumnock, East Ayrshire",
+    "postalCode": "KA18 1BY"
+  },
+  {
+    "name": "Darlington MPTC Test Centre",
+    "address": "Driving Standards Agency, Yarm Road, High Point Business Park, Darlington, County Durham",
+    "postalCode": "DL1 4PW"
+  },
+  {
+    "name": "Derby (Sinfin Lane) Test Centre",
+    "address": "Ordnance Cottage, Sinfin Lane, Derby, Derbyshire",
+    "postalCode": "DE24 9GL"
+  },
+  {
+    "name": "Doncaster Test Centre",
+    "address": "Shaftesbury Avenue, Intake, Doncaster, South Yorkshire",
+    "postalCode": "DN02 6DT"
+  },
+  {
+    "name": "Dorchester Test Centre",
+    "address": "Government Buildings, Prince of Wales Road, Dorchester, Dorset",
+    "postalCode": "DT1 1PU"
+  },
+  {
+    "name": "Dumbarton Test Centre",
+    "address": "C/O The Benefits Agency, 15 Meadowbank Street, Dumbarton, Dunbartonshire",
+    "postalCode": "G82 1SJ"
+  },
+  {
+    "name": "Dumfries Test Centre",
+    "address": "161 Brooms Road, Dumfries, Dumfriesshire",
+    "postalCode": "DG1 2SH"
+  },
+  {
+    "name": "Dundee Test Centre",
+    "address": "Block 23B, Kilspindie Place, Dunsinane Industrial Estate, Dundee, Angus",
+    "postalCode": "DD2 3QH"
+  },
+  {
+    "name": "Dunfermline Test Centre",
+    "address": "Estantia House, Pitreavie Drive, Dunfermline, Fife",
+    "postalCode": "KY11 8UH"
+  },
+  {
+    "name": "Dunoon Test Centre",
+    "address": "C/O The Job Centre, George Street, Dunoon, Argyll",
+    "postalCode": "PA23 8BB"
+  },
+  {
+    "name": "Duns Test Centre",
+    "address": "Scottish Borders Council, 8 Newton Street, Duns, Berwickshire",
+    "postalCode": "TD11 3AS"
+  },
+  {
+    "name": "Eastbourne Test Centre",
+    "address": "1 Coastguard Cottages, 84 Wartling Road, Sussex",
+    "postalCode": "BN22 7PT"
+  },
+  {
+    "name": "Edinburgh (Currie) Test Centre",
+    "address": "13-15 Bryce Road, Currie, Edinburgh",
+    "postalCode": "EH14 5LT"
+  },
+  {
+    "name": "Edinburgh (Musselburgh) MPTC Test Centre",
+    "address": "Newhailes Industrial Estate, Newhailes Road, Olivebank, Musselburgh, East Lothian",
+    "postalCode": "EH21 6SL"
+  },
+  {
+    "name": "Elgin Test Centre",
+    "address": "Crown Buildings, 21 Trinity Road, Elgin, Morayshire",
+    "postalCode": "IV30 1UE"
+  },
+  {
+    "name": "Elswick Test Centre",
+    "address": "Unit 2 Sirius House, Elswick, Newcastle-upon-Tyne, Tyne and Wear",
+    "postalCode": "NE4 7YL"
+  },
+  {
+    "name": "Enfield LGV Test Centre",
+    "address": "33 Brancroft Way, Brimsdown, Enfield, Middlesex",
+    "postalCode": "EN3 7NJ"
+  },
+  {
+    "name": "Enfield MPTC Test Centre",
+    "address": "Solar Way, Innova Park Business Centre, Enfield, Middlesex",
+    "postalCode": "EN3 7XY"
+  },
+  {
+    "name": "Erith MPTC Test Centre",
+    "address": "Crabtree Manorway North, Belvedere, Kent",
+    "postalCode": "DA17 6LJ"
+  },
+  {
+    "name": "Exeter MPTC Test Centre",
+    "address": "Thoverton Road, Marsh Barton, Devon",
+    "postalCode": "EX2 8FS"
+  },
+  {
+    "name": "Failsworth Test Centre",
+    "address": "2 Partington Street, Failsworth, Manchester, Greater Manchester",
+    "postalCode": "M35 9RD"
+  },
+  {
+    "name": "Falkirk Test Centre",
+    "address": "11 Maggiewoods Loan, Falkirk, Stirlingshire",
+    "postalCode": "FK1 5HR"
+  },
+  {
+    "name": "Farnborough (Aldershot) MPTC Test Centre",
+    "address": "35 Hercules Way, Farnborough, Hampshire",
+    "postalCode": "GU14 6UU"
+  },
+  {
+    "name": "Folkestone Test Centre",
+    "address": "Palting House, Trinity Road, Folkestone, Kent",
+    "postalCode": "CT20 2RH"
+  },
+  {
+    "name": "Forfar Test Centre",
+    "address": "38 Prior Road, Forfar, Angus",
+    "postalCode": "DD8 3DT"
+  },
+  {
+    "name": "Fort William Test Centre",
+    "address": "St Marys Manse, Belford Road, Fort William, Inverness-shire",
+    "postalCode": "PH33 6BT"
+  },
+  {
+    "name": "Fraserburgh Test Centre",
+    "address": "Warld's End Basement Office Suite, 11 Dalrymple Street, Fraserburgh, Aberdeenshire",
+    "postalCode": "AB43 9BH"
+  },
+  {
+    "name": "Galashiels L + LGV Test Centre",
+    "address": "1 Croft Street, Galashiels, Selkirkshire",
+    "postalCode": "TD1 3BH"
+  },
+  {
+    "name": "Garston (Speke) Test Centre",
+    "address": "69 Woolton Road, Garston, Liverpool, Merseyside",
+    "postalCode": "L19 5ND"
+  },
+  {
+    "name": "Gateshead MPTC Test Centre",
+    "address": "Waterside Drive, Dunston, Gateshead, Tyne and Wear",
+    "postalCode": "NE11 9HU"
+  },
+  {
+    "name": "Gillingham L + LGV Test Centre",
+    "address": "Unit 4 The Courtyard, Campus Way, Off Bailey Drive, Gillingham Business Park, Gillingham, Kent",
+    "postalCode": "ME8 0NZ"
+  },
+  {
+    "name": "Girvan Test Centre",
+    "address": "3 Beach Pavilion, Girvan, Ayrshire",
+    "postalCode": "KA26 9PH"
+  },
+  {
+    "name": "Glasgow (Anniesland) Test Centre",
+    "address": "351 Anniesland Road, Glasgow, Strathclyde",
+    "postalCode": "G13 1XS"
+  },
+  {
+    "name": "Glasgow (Baillieston) Test Centre",
+    "address": "341 Springhill Parkway, Glasgow Business Park, Glasgow",
+    "postalCode": "G69 6GA"
+  },
+  {
+    "name": "Glasgow (Shieldhall) MPTC Test Centre",
+    "address": "Bogmoor Road, ShieldHall, West Glasgow, Glasgow",
+    "postalCode": "G51 4TH"
+  },
+  {
+    "name": "Glasgow (Springburn Park) Test Centre",
+    "address": "Springburn Park, 14A Balornock Road, Glasgow",
+    "postalCode": "G21 3UH"
+  },
+  {
+    "name": "Gloucester MPTC Test Centre",
+    "address": "Green Farm Business Park, Falcon Close, Quedgeley, Gloucester, Gloucestershire",
+    "postalCode": "GL2 4LY"
+  },
+  {
+    "name": "Golspie Test Centre",
+    "address": "Golspie Fire Station, Back Road, Golspie, Sutherland",
+    "postalCode": "KW10 6SP"
+  },
+  {
+    "name": "Goodmayes Test Centre",
+    "address": "98 Goodmayes Road, Ilford, Essex",
+    "postalCode": "IG3 9UZ"
+  },
+  {
+    "name": "Grantham (Somerby) Test Centre",
+    "address": "Spitalgate Airfield, Blue Harbour, Grantham, Lincolnshire",
+    "postalCode": "NG31 7TX"
+  },
+  {
+    "name": "Grantown-on-Spey Test Centre",
+    "address": "Grantown-on-Spey Fire Station, Woodside Avenue, Grantown on Spey, Morayshire",
+    "postalCode": "PH26 3JR"
+  },
+  {
+    "name": "Gravesend Test Centre",
+    "address": "25 Pelham Road, Gravesend, Kent",
+    "postalCode": "DA11 0HU"
+  },
+  {
+    "name": "Greenford (Horsenden Lane) Test Centre",
+    "address": "96 Horsenden Lane North, Greenford, Middlesex",
+    "postalCode": "UB6 7QH"
+  },
+  {
+    "name": "Greenock Test Centre",
+    "address": "19A Union Street, Greenock, Renfrewshire",
+    "postalCode": "PA16 8DD"
+  },
+  {
+    "name": "Grimsby (Coldwater) Test Centre",
+    "address": "Estate Road 1 South Humberside Trading Estate, Pyewipe, Grimsby, Lincolnshire",
+    "postalCode": "DN31 2TB"
+  },
+  {
+    "name": "Guildford L + LGV Test Centre",
+    "address": "Slyfield Industrial Estate off Moorfield Road, Guildford, Surrey",
+    "postalCode": "GU1 1SA"
+  },
+  {
+    "name": "Haddington Test Centre",
+    "address": "Herdmanflatt, Haddington, East Lothian",
+    "postalCode": "EH41 4NG"
+  },
+  {
+    "name": "Halifax Test Centre",
+    "address": "11 Cross Street West, Pellon, Halifax, West Yorkshire",
+    "postalCode": "HX02 0HA"
+  },
+  {
+    "name": "Hamilton Test Centre",
+    "address": "30 Selkirk Street, Hamilton, South Lanarkshire",
+    "postalCode": "ML3 6RQ"
+  },
+  {
+    "name": "Harrogate Test Centre",
+    "address": "Walcot, Alexandra Road, Harrogate, North Yorkshire",
+    "postalCode": "HG1 5JS"
+  },
+  {
+    "name": "Hartlepool Test Centre",
+    "address": "Unit 20, Newburn Bridge Industrial Estate, Mainsforth Terrace, Hartlepool, County Durham",
+    "postalCode": "TS25 1TZ"
+  },
+  {
+    "name": "Hastings Test Centre",
+    "address": "Heron House, 149/159 London Road, St Leonards on Sea, East Sussex",
+    "postalCode": "TN37 6LB"
+  },
+  {
+    "name": "Hawick Test Centre",
+    "address": "Driving Test Centre Hawick, Burnfoot Community Hub, 89 Brunfoot Road, Hawick, Roxburgh",
+    "postalCode": "TD9 8EJ"
+  },
+  {
+    "name": "Hayes (Middlesex) Test Centre",
+    "address": "Fourways House Rigby Lane, Swallowfield Way, Hayes, Middlesex",
+    "postalCode": "UB3 1ET"
+  },
+  {
+    "name": "Heckmondwike Test Centre",
+    "address": "Tower Buildings, High Street, Heckmondwike, West Yorkshire",
+    "postalCode": "WF16 0AS"
+  },
+  {
+    "name": "Hendon Test Centre",
+    "address": "21 Aviation Square, Beaufort Park, Hendon, London",
+    "postalCode": "NW9 5TZ"
+  },
+  {
+    "name": "Hereford Test Centre",
+    "address": "1 Faraday Road, Westfield Trading Estate, Hereford, Hereford and Worcester",
+    "postalCode": "HR4 9NS"
+  },
+  {
+    "name": "Herne Bay MPTC Test Centre",
+    "address": "Herne Bay MPTC, Alfira Business Park, Margate Road, Thanet Way, Herne Bay, Kent",
+    "postalCode": "CT6 6LA"
+  },
+  {
+    "name": "Hexham Test Centre",
+    "address": "St Andrews House, Haugh Lane, Hexham, Northumberland",
+    "postalCode": "NE46 3EW"
+  },
+  {
+    "name": "Heysham Test Centre",
+    "address": "1A Sugham Lane, Heysham, Lancashire",
+    "postalCode": "LA03 2DR"
+  },
+  {
+    "name": "High Wycombe (Bucks) Test Centre",
+    "address": "Trenchard House, Wellington Road, Cressex Business Park, High Wycombe, Buckinghamshire, HP12 3PS",
+    "postalCode": "HP12 3PS"
+  },
+  {
+    "name": "Hinckley Test Centre",
+    "address": "33 Brookside, Hinckley, Leicestershire, LE10 2TG",
+    "postalCode": "LE10 2TG"
+  },
+  {
+    "name": "Hither Green Test Centre",
+    "address": "Ennersdale Road, Hither Green, London, Greater London, SE13 6JD",
+    "postalCode": "SE13 6JD"
+  },
+  {
+    "name": "Hornchurch Test Centre",
+    "address": "75 Station Lane, Hornchurch, Essex, RM12 6JX",
+    "postalCode": "RM12 6JX"
+  },
+  {
+    "name": "Horsforth Test Centre",
+    "address": "Room 013, Woodside House, 261 Low Lane, Horsforth, Leeds, West Yorkshire, LS18 5NY",
+    "postalCode": "LS18 5NY"
+  },
+  {
+    "name": "Huddersfield Test Centre",
+    "address": "Waverley House, Waverley Road, Huddersfield, West Yorkshire, HD01 5NA",
+    "postalCode": "HD01 5NA"
+  },
+  {
+    "name": "Hull MPTC Test Centre",
+    "address": "Reservoir Rd, Off Clough Rd, Kingston upon Hull, North Humberside, HU6 7PY",
+    "postalCode": "HU6 7PY"
+  },
+  {
+    "name": "Huntly Test Centre",
+    "address": "Huntly Fire Station, Depot Road, Huntly, Aberdeenshire, AB54 8JX",
+    "postalCode": "AB54 8JX"
+  },
+  {
+    "name": "Hyde Test Centre",
+    "address": "23 Perrin Street, Hyde, Cheshire, SK14 1JE",
+    "postalCode": "SK14 1JE"
+  },
+  {
+    "name": "Inverness DTC Test Centre",
+    "address": "Ground Floor Suite B1, Elm House, Cradlehall Business Park, Off Caulfield Road, Inverness, Inverness, IV2 5GH",
+    "postalCode": "IV2 5GH"
+  },
+  {
+    "name": "Ipswich MPTC Test Centre",
+    "address": "Central Avenue / Bluestem Road, Ransomes Europark, Ipswich, Suffolk, IP3 9RR",
+    "postalCode": "IP3 9RR"
+  },
+  {
+    "name": "Islay Island Test Centre",
+    "address": "Post Office Main Street, Bowmore, Isle of Islay, Argyll and Bute, PA43 7JH",
+    "postalCode": "PA43 7JH"
+  },
+  {
+    "name": "Isle of Islay (Port Ellen) Test Centre",
+    "address": "Glen Eckdale Airfield, Port Ellen, Argyll, PA42 7AS",
+    "postalCode": "PA42 7AS"
+  },
+  {
+    "name": "Isles of Scilly Test Centre",
+    "address": "Town Hall, St Marys, Isles of Scilly, TR21 0LW",
+    "postalCode": "TR21 0LW"
+  },
+  {
+    "name": "Isleworth Test Centre",
+    "address": "Worton Hall, Worton Road, Isleworth, Middlesex, TW7 6ER",
+    "postalCode": "TW7 6ER"
+  },
+  {
+    "name": "Kelso Test Centre",
+    "address": "Croall Bryson Garage, Roxburgh Works, Pinnaclehill Industrial Estate, Kelso, Roxburghshire, TD5 8DW",
+    "postalCode": "TD5 8DW"
+  },
+  {
+    "name": "Kendal Test Centre",
+    "address": "Eskdale House, Shap Road, Kendal, Cumbria, LA09 6NQ",
+    "postalCode": "LA09 6NQ"
+  },
+  {
+    "name": "Kettering MPTC Test Centre",
+    "address": "Driving Standards Agency, Orion Way, Kettering Business Park, Kettering, Northamptonshire, NN15 6NL",
+    "postalCode": "NN15 6NL"
+  },
+  {
+    "name": "Kilmarnock Test Centre",
+    "address": "71 Whatriggs Road, Kilmarnock, East Ayrshire, KA1 3RB",
+    "postalCode": "KA1 3RB"
+  },
+  {
+    "name": "Kings Lynn MPTC Test Centre",
+    "address": "Rollesby Road, Hardwick Industrial Estate, Kings Lyn, Norfolk, PE30 4LS",
+    "postalCode": "PE30 4LS"
+  },
+  {
+    "name": "Kingussie Test Centre",
+    "address": "Kingussie Shinty Club, The Market Stance, Ruthven Road, Kingussie, Inverness-shire, PH21 1EN",
+    "postalCode": "PH21 1EN"
+  },
+  {
+    "name": "Kirkcaldy MPTC Test Centre",
+    "address": "10 Randolph Place, Kirkcaldy, Fife, KY1 2YX",
+    "postalCode": "KY1 2YX"
+  },
+  {
+    "name": "Lairg Test Centre",
+    "address": "Lairg Fire Station, Main Street, Lairg, Sutherland, IV27 4DB",
+    "postalCode": "IV27 4DB"
+  },
+  {
+    "name": "Lampeter Test Centre",
+    "address": "Government Buildings, Pontfaen Road, Lampeter, Dyfed, SA48 7BL",
+    "postalCode": "SA48 7BL"
+  },
+  {
+    "name": "Launceston Test Centre",
+    "address": "St Johns, Western Road, Launceston, Cornwall, PL15 7AU",
+    "postalCode": "PL15 7AU"
+  },
+  {
+    "name": "Lee on the Solent MPTC Test Centre",
+    "address": "The Richard Sainsbury Building, Daedalus, Chark Lane, Hants, PO13 9YA",
+    "postalCode": "PO13 9YA"
+  },
+  {
+    "name": "Leeds (Harehills) Test Centre",
+    "address": "Hillcrest House, 386 Harehills Lane, Leeds, West Yorkshire, LS9 6NF",
+    "postalCode": "LS9 6NF"
+  },
+  {
+    "name": "Leicester (Gipsy Lane) Test Centre",
+    "address": "Opposite Oliver Road, Leicester, Leicestershire, LE4 6RH",
+    "postalCode": "LE4 6RH"
+  },
+  {
+    "name": "Leicester (South Wigston) MPTC Test Centre",
+    "address": "Land At Tigers Close, South Wigston, Leicester, Leicestershire, LE18 4WS",
+    "postalCode": "LE18 4WS"
+  },
+  {
+    "name": "Leighton Buzzard Test Centre",
+    "address": "Van Dyke Road, Leighton Buzzard, Bedfordshire, LU7 3HA",
+    "postalCode": "LU7 3HA"
+  },
+  {
+    "name": "Lerwick (Shetland) Test Centre",
+    "address": "Isleburgh House, King Harald Street, Lerwick, Isle of Shetland, ZE1 0DJ",
+    "postalCode": "ZE1 0DJ"
+  },
+  {
+    "name": "Letchworth Test Centre",
+    "address": "Jackmans Place, Letchworth, Hertfordshire, SG6 1RF",
+    "postalCode": "SG6 1RF"
+  },
+  {
+    "name": "Lichfield Test Centre",
+    "address": "Lower Sanford Street, Lichfield, West Midlands, WS13 6RB",
+    "postalCode": "WS13 6RB"
+  },
+  {
+    "name": "Lincoln MPTC Test Centre",
+    "address": "Driving Standards Agency, Earlsfield Close, Off Sadler Road, Lincoln, Lincolnshire, LN6 3RT",
+    "postalCode": "LN6 3RT"
+  },
+  {
+    "name": "Llandrindod Wells Test Centre",
+    "address": "Government Buildings, Spa Road East, Llandrindod Wells, Powys, LD1 5HA",
+    "postalCode": "LD1 5HA"
+  },
+  {
+    "name": "Llanelli Test Centre",
+    "address": "Toft Place, Llanerch, Llanelli, Dyfed, SA15 3SB",
+    "postalCode": "SA15 3SB"
+  },
+  {
+    "name": "Lochgilphead Test Centre",
+    "address": "County Offices, Manse Brae, Lochgilphead, Argyll, PA31 8QU",
+    "postalCode": "PA31 8QU"
+  },
+  {
+    "name": "Longbenton Test Centre",
+    "address": "Government Buildings, Whitley Road, Longbenton, Newcastle Upon Tyne, NE12 9SE",
+    "postalCode": "NE12 9SE"
+  },
+  {
+    "name": "Loughborough Test Centre",
+    "address": "Pinfold Gate Car Park, Pinfold Gate Road, Loughborough, Leicestershire, LE11 1BG",
+    "postalCode": "LE11 1BG"
+  },
+  {
+    "name": "Loughton Test Centre",
+    "address": "Crown Buildings, 284 High Road, Loughton, Essex, IG10 1RB",
+    "postalCode": "IG10 1RB"
+  },
+  {
+    "name": "Louth Test Centre",
+    "address": "Zenith House, North Holme Road, Lincolnshire, LN11 0HQ",
+    "postalCode": "LN11 0HQ"
+  },
+  {
+    "name": "Lower Gornal Test Centre",
+    "address": "19/21 Lake Street, Lower Gornal, Nr Dudley, West Midlands, DY3 2AU",
+    "postalCode": "DY3 2AU"
+  },
+  {
+    "name": "Lowestoft Test Centre",
+    "address": "Rishton House, Clapham Road, Lowestoft, Suffolk, NR32 1RL",
+    "postalCode": "NR32 1RL"
+  },
+  {
+    "name": "Ludlow Test Centre",
+    "address": "54 Broad Street, Ludlow, Shropshire, SY8 1GN",
+    "postalCode": "SY8 1GN"
+  },
+  {
+    "name": "Luton Test Centre",
+    "address": "6/10 Adelaide Street, Luton, Bedfordshire, LU1 5BT",
+    "postalCode": "LU1 5BT"
+  },
+  {
+    "name": "Macclesfield Test Centre",
+    "address": "10 Bridge Street, Macclesfield, Cheshire",
+    "postalCode": "SK11 6EG"
+  },
+  {
+    "name": "Maidstone Test Centre",
+    "address": "Unit 1 North Court, South Park Business Village, Armstrong Road, Maidstone, Kent",
+    "postalCode": "ME15 6JZ"
+  },
+  {
+    "name": "Mallaig Test Centre",
+    "address": "Mallaig and Morar Community Centre, West Bay, Mallaig, Inverness-shire",
+    "postalCode": "PH41 4PX"
+  },
+  {
+    "name": "Malton Test Centre",
+    "address": "3 Milton Avenue, Malton, North Yorkshire",
+    "postalCode": "YO17 0LB"
+  },
+  {
+    "name": "Melton Mowbray Test Centre",
+    "address": "Crown Building, 50/52 Scalford Road, Melton Mowbray, Leicestershire",
+    "postalCode": "LE13 1JY"
+  },
+  {
+    "name": "Merthyr Tydfil Test Centre",
+    "address": "Government Buildings, Castle Street, Methyr Tydfil, Mid Glamorgan",
+    "postalCode": "CF47 8TX"
+  },
+  {
+    "name": "Middlesbrough Test Centre",
+    "address": "Maxwell Road, Middlesbrough, Cleveland",
+    "postalCode": "TS03 8TE"
+  },
+  {
+    "name": "Mill Hill Test Centre",
+    "address": "Unit 9 Grannard Business Centre, Bunns Lane, Mill Hill, London, Greater London",
+    "postalCode": "NW7 2DQ"
+  },
+  {
+    "name": "Mitcham (London) Test Centre",
+    "address": "Redhouse Road, Mitcham, Surrey",
+    "postalCode": "CR0 3AQ"
+  },
+  {
+    "name": "Monmouth Test Centre",
+    "address": "Old Dixon Road, Monmouth, Monmouthshire",
+    "postalCode": "NP25 3DP"
+  },
+  {
+    "name": "Montrose Test Centre",
+    "address": "Inchbraoch House, Harbour Offices, South Quay, Ferryden, Montrose, Angus",
+    "postalCode": "DD10 9SL"
+  },
+  {
+    "name": "Morden Test Centre",
+    "address": "10 Tudor Drive, Morden, Surrey",
+    "postalCode": "SM4 4PE"
+  },
+  {
+    "name": "Nelson Test Centre",
+    "address": "Cobden Street, Nelson, Lancashire",
+    "postalCode": "BB09 0AH"
+  },
+  {
+    "name": "Newbury Test Centre",
+    "address": "Newtown Road, Newbury, Berkshire",
+    "postalCode": "RG14 7EB"
+  },
+  {
+    "name": "Newcastle-under-Lyme Test Centre",
+    "address": "Parklands Clayton Lane, Trent Vale, Stoke-On-Trent",
+    "postalCode": "ST4 6PQ"
+  },
+  {
+    "name": "Newport MPTC Test Centre",
+    "address": "Stephenson Street Off Corporation Road, Liswerry, Newport, Monmouthshire",
+    "postalCode": "NP19 4XH"
+  },
+  {
+    "name": "Newton Abbot Test Centre",
+    "address": "Vander House, Brunel Road, Newton Abbot, Devon",
+    "postalCode": "TQ12 4YQ"
+  },
+  {
+    "name": "Norris Green Test Centre",
+    "address": "Falklands Approach, Parthenon Drive, Norris Green, Liverpool",
+    "postalCode": "L11 5BR"
+  },
+  {
+    "name": "Northallerton Test Centre",
+    "address": "Elder House, East Road, Northallerton, North Yorkshire",
+    "postalCode": "DL06 1NU"
+  },
+  {
+    "name": "Northampton Test Centre",
+    "address": "Gladstone Business Centre, Gladstone Road, Northampton, Northamptonshire",
+    "postalCode": "NN5 7QG"
+  },
+  {
+    "name": "Northwich (Northern) Test Centre",
+    "address": "4 Felix Road, Winnington, Northwich, Cheshire",
+    "postalCode": "CW08 4BU"
+  },
+  {
+    "name": "Norwich MPTC Test Centre",
+    "address": "Peachman Way, Broadlands Business Park, Thorpe St Andrew, Norwich, Norfolk",
+    "postalCode": "NR7 0WE"
+  },
+  {
+    "name": "Nottingham (Chalfont Drive) Test Centre",
+    "address": "Block 6 Room F4, Government Buildings, Chalfont Drive, Nottingham, Nottinghamshire",
+    "postalCode": "NG8 3RF"
+  },
+  {
+    "name": "Nottingham (Colwick) MPTC Test Centre",
+    "address": "Private Road No 5, Colwick Industrial Estate, Nottingham, Nottinghamshire",
+    "postalCode": "NG4 2JU"
+  },
+  {
+    "name": "Nuneaton Test Centre",
+    "address": "54 Vernons Lane, Nuneaton, Warwickshire",
+    "postalCode": "CV10 8AA"
+  },
+  {
+    "name": "Oban Test Centre",
+    "address": "Cameron House, Albany Street, Oban, Argyll",
+    "postalCode": "PA34 4AE"
+  },
+  {
+    "name": "Orkney (Kirkwall) Test Centre",
+    "address": "Pickaquoy Road, Kirkwall, Orkney, Orkney County",
+    "postalCode": "KW15 1RR"
+  },
+  {
+    "name": "Oxford (Cowley) Test Centre",
+    "address": "James Wolfe Road, Cowley, Oxford, Oxfordshire",
+    "postalCode": "OX4 2PY"
+  },
+  {
+    "name": "Paisley Test Centre",
+    "address": "Textile House, 3 Duke Street, Paisley, Renfrewshire",
+    "postalCode": "PA2 6RF"
+  },
+  {
+    "name": "Peebles Test Centre",
+    "address": "Tweeddale District Council, Rosetta Road, Peebles, Peeblesshire",
+    "postalCode": "EH45 8DN"
+  },
+  {
+    "name": "Pembroke Dock Test Centre",
+    "address": "The Captain Superintendent’s Building, Royal Dockyard, Pembroke Dock, Dyfed",
+    "postalCode": "SA72 6TD"
+  },
+  {
+    "name": "Penzance Test Centre",
+    "address": "1 Alverton Terrace, Penzance, Cornwall",
+    "postalCode": "TR18 4JH"
+  },
+  {
+    "name": "Perth Test Centre",
+    "address": "111 Rannoch Road, Perth, Tayside, Perthshire",
+    "postalCode": "PH1 2DF"
+  },
+  {
+    "name": "Peterborough MPTC Test Centre",
+    "address": "Second Drove, Fengate, Peterborough, Cambridgeshire",
+    "postalCode": "PE1 5XA"
+  },
+  {
+    "name": "Peterhead Test Centre",
+    "address": "Suite 21, Burnside Business Centre, Burnside Rd, Peterhead, Aberdeenshire",
+    "postalCode": "AB42 3AW"
+  },
+  {
+    "name": "Pinner Test Centre",
+    "address": "221 Tolcarne Drive, Pinner, Middlesex",
+    "postalCode": "HA5 2DZ"
+  },
+  {
+    "name": "Pitlochry Test Centre",
+    "address": "The Hall, West Moulin Road, Pitlochry, Perthshire",
+    "postalCode": "PH16 5EA"
+  },
+  {
+    "name": "Plymouth MPTC Test Centre",
+    "address": "Ernesettle Lane, Plymouth, Devon",
+    "postalCode": "PL5 2EY"
+  },
+  {
+    "name": "Pontefract Test Centre",
+    "address": "Baghill Station, Station Lane, Pontefract, West Yorkshire",
+    "postalCode": "WF8 1RB"
+  },
+  {
+    "name": "Pontypridd Test Centre",
+    "address": "18 Pwllgwaun Road, Pontypridd, Mid Glamorgan",
+    "postalCode": "CF37 1HH"
+  },
+  {
+    "name": "Portsmouth Test Centre",
+    "address": "Fort Southwick, James Callaghan Drive, Fareham, Hampshire",
+    "postalCode": "PO17 6AR"
+  },
+  {
+    "name": "Preston Test Centre",
+    "address": "Chain Caul Road, Preston",
+    "postalCode": "PR2 2PD"
+  },
+  {
+    "name": "Reading Test Centre",
+    "address": "220 Elgar Road South, Reading, Berkshire",
+    "postalCode": "RG2 0DE"
+  },
+  {
+    "name": "Reddish (Northern) Test Centre",
+    "address": "26/28 Broadstone Road, Reddish, Cheshire",
+    "postalCode": "SK5 7AE"
+  },
+  {
+    "name": "Redditch (Worcestershire) Test Centre",
+    "address": "Elm Road, Redditch, Worcestershire",
+    "postalCode": "B97 6HJ"
+  },
+  {
+    "name": "Reigate Test Centre",
+    "address": "7 Slipshatch Road, Woodhatch, Reigate, Surrey",
+    "postalCode": "RH2 8HA"
+  },
+  {
+    "name": "Rhyl Test Centre",
+    "address": "Victoria Road, Rhyl, Denbighshire",
+    "postalCode": "LL18 2EL"
+  },
+  {
+    "name": "Rochdale Test Centre",
+    "address": "Blueberry Business Park, Unit 5 Ground Floor, Kingsway, Rochdale, Lancashire",
+    "postalCode": "OL16 5AF"
+  },
+  {
+    "name": "Rotherham MPTC Test Centre",
+    "address": "Driving Standards Agency DTC Rotherham, Mangham Way, Off Mangham Rd, Rotherham",
+    "postalCode": "S61 4RL"
+  },
+  {
+    "name": "Rothesay (Bute Island) Test Centre",
+    "address": "C/O Dept. of Employment, 9 King Street, Rothesay, Isle of Bute",
+    "postalCode": "PA20 0DE"
+  },
+  {
+    "name": "Rugby Test Centre",
+    "address": "Aspect House, 66B Somers Road, Rugby, Warwickshire",
+    "postalCode": "CV22 7DH"
+  },
+  {
+    "name": "Sale Test Centre",
+    "address": "36/38 Poplar Grove, Sale, Cheshire",
+    "postalCode": "M33 7ER"
+  },
+  {
+    "name": "Salisbury Test Centre",
+    "address": "Rougemont Close, Salisbury, Wiltshire",
+    "postalCode": "SP1 1LY"
+  },
+  {
+    "name": "Saltcoats Test Centre",
+    "address": "31 Old Raise Road, Saltcoats, Ayrshire",
+    "postalCode": "KA21 5RB"
+  },
+  {
+    "name": "Scunthorpe MPTC Test Centre",
+    "address": "Driving Standards Agency, Warren Road, Scunthorpe, South Humberside",
+    "postalCode": "DN15 6XH"
+  },
+  {
+    "name": "Sevenoaks Test Centre",
+    "address": "45 Argyle Road, Sevenoaks, Kent",
+    "postalCode": "TN13 1HJ"
+  },
+  {
+    "name": "Sheffield (Handsworth) Test Centre",
+    "address": "Orgreave Way, Handsworth, Sheffield, South Yorkshire",
+    "postalCode": "S13 9LT"
+  },
+  {
+    "name": "Sheffield (Middlewood Road) Test Centre",
+    "address": "508 Middlewood Road, Sheffield, South Yorkshire",
+    "postalCode": "S06 1TQ"
+  },
+  {
+    "name": "Sheffield (Parkway) Test Centre",
+    "address": "Unit 2 Acres Hill Business Park, Acres Hill Lane, Sheffield, South Yorkshire",
+    "postalCode": "S9 4LR"
+  },
+  {
+    "name": "Shrewsbury MPTC Test Centre",
+    "address": "Knights Way, Battlefield Enterprise Park, Shrewsbury, Shropshire",
+    "postalCode": "SY1 3AB"
+  },
+  {
+    "name": "Sidcup Test Centre",
+    "address": "2 Crayside, 5 Arches Business estate, Maidstone Rd, Sidcup, Kent",
+    "postalCode": "DA14 5AG"
+  },
+  {
+    "name": "Skegness Test Centre",
+    "address": "Unit 3 Beaubridge Business Park, Heath Rd, Skegness",
+    "postalCode": "PE25 3ST"
+  },
+  {
+    "name": "Skipton Test Centre",
+    "address": "Foundry House, Carleton Road, Skipton, North Yorkshire",
+    "postalCode": "BD23 2BE"
+  },
+  {
+    "name": "Slough Test Centre",
+    "address": "Grays Place, Slough, Berkshire",
+    "postalCode": "SL2 5AF"
+  },
+  {
+    "name": "South Norwood Test Centre",
+    "address": "112a Portland Road, South Norwood, London, Greater London",
+    "postalCode": "SE25 4PJ"
+  },
+  {
+    "name": "South Shields Test Centre",
+    "address": "Bedesway, Bede Industrial Estate, South Shields, Tyne & Wear",
+    "postalCode": "NE32 3EG"
+  },
+  {
+    "name": "South Uist Island Test Centre",
+    "address": "C/O Tourist office, Lochboisdale, South Uist, Isle of Uist",
+    "postalCode": "HS8 5TH"
+  },
+  {
+    "name": "Southall Test Centre",
+    "address": "285 Allenby Road, Southall, Middlesex",
+    "postalCode": "UB1 2HD"
+  },
+  {
+    "name": "Southampton (Forest Hills) Test Centre",
+    "address": "Forest Hills Drive, Southampton, Hampshire",
+    "postalCode": "SO18 2NT"
+  },
+  {
+    "name": "Southampton (Maybush) Test Centre",
+    "address": "Green Lane, Maybush, Southampton, Hampshire",
+    "postalCode": "SO16 9FP"
+  },
+  {
+    "name": "Southport Test Centre",
+    "address": "Eastbank House, Eastbank Street, Southport, Merseyside",
+    "postalCode": "PR08 1HE"
+  },
+  {
+    "name": "St Albans Test Centre",
+    "address": "Beauver House, 6 Bricket Road, St Albans, Hertfordshire",
+    "postalCode": "AL1 3JX"
+  },
+  {
+    "name": "St Helens MPTC Test Centre",
+    "address": "1 Navigation Road, Off Pocket Nook Street, St. Helens, Merseyside",
+    "postalCode": "WA9 1LA"
+  },
+  {
+    "name": "Stafford Test Centre",
+    "address": "Unit 7 Greyfriars Business Park, Frank Foley Way, Stafford, Staffordshire",
+    "postalCode": "ST16 2RF"
+  },
+  {
+    "name": "Stevenage Test Centre",
+    "address": "3 Drapers Way, Stevenage, Hertfordshire",
+    "postalCode": "SG1 3DT"
+  },
+  {
+    "name": "Stirling Test Centre",
+    "address": "Government Buildings, 2 St Ninians Road, Stirling, Stirlingshire",
+    "postalCode": "FK8 2HF"
+  },
+  {
+    "name": "Stoke On Trent (Cobridge) Test Centre",
+    "address": "8 Elder Road, Cobridge, Stoke On Trent, Staffordshire",
+    "postalCode": "ST6 2HE"
+  },
+  {
+    "name": "Stornoway (Lewis) Test Centre",
+    "address": "Fishermans Mission, 1 Quay Street, Stornoway, Isle of Lewis",
+    "postalCode": "HS1 2XX"
+  },
+  {
+    "name": "Sunderland Test Centre",
+    "address": "1 The Cloisters, Stockton Road, Sunderland, Tyne and Wear",
+    "postalCode": "SR2 7BD"
+  },
+  {
+    "name": "Sutton (Surrey) Test Centre",
+    "address": "Helena House, 348 High Street, Sutton, Surrey",
+    "postalCode": "SM1 1PU"
+  },
+  {
+    "name": "Swansea MPTC Test Centre",
+    "address": "Driving Standards Agency, Langdon Road, Kings Dock, St Thomas, Swansea, West Glamorgan",
+    "postalCode": "SA1 8QY"
+  },
+  {
+    "name": "Swindon MPTC Test Centre",
+    "address": "Driving Standards Agency, Peatmoor Way, Hillmead, Swindon, Wiltshire",
+    "postalCode": "SN5 5WN"
+  },
+  {
+    "name": "Speke (Liverpool) Test Centre",
+    "address": "Unit 3 Dakota Business Park, Skyhawk Avenue, Speke, Liverpol, Merseyside",
+    "postalCode": "L19 2QR"
+  },
+  {
+    "name": "Taunton Test Centre",
+    "address": "2 Scotts House, Cook Way, Bindon Business Park, Taunton, Somerset",
+    "postalCode": "TA2 6BG"
+  },
+  {
+    "name": "Telford Test Centre",
+    "address": "Hortonwood 35, Telford, Shropshire",
+    "postalCode": "TF1 7FR"
+  },
+  {
+    "name": "Thurso Test Centre",
+    "address": "Naver House, Naver Road, Naver Business Park, Caithness",
+    "postalCode": "KW14 7QA"
+  },
+  {
+    "name": "Tilbury Test Centre",
+    "address": "Montana House, Russell Road, Tilbury, Essex",
+    "postalCode": "RM18 7AE"
+  },
+  {
+    "name": "Tolworth Test Centre",
+    "address": "Douglas House, 1b Douglas Road, Tolworth, Surrey",
+    "postalCode": "KT6 7RZ"
+  },
+  {
+    "name": "Tunbridge Wells Test Centre",
+    "address": "8 Upper Grosvenor Road, Tunbridge Wells, Kent",
+    "postalCode": "TN1 2ES"
+  },
+  {
+    "name": "Ullapool Test Centre",
+    "address": "Ross & Cromarty Service Point, North Road, Ullapool, Ross-Shire",
+    "postalCode": "IV26 2XL"
+  },
+  {
+    "name": "Upton Test Centre",
+    "address": "Arrowe Park Rd, Upton, Wirral, Cheshire",
+    "postalCode": "CH49 0UF"
+  },
+  {
+    "name": "Wakefield Test Centre",
+    "address": "Mothers Way, Silkwood Park, Ossett, West Yorkshire",
+    "postalCode": "WF5 9TR"
+  },
+  {
+    "name": "Wallasey Test Centre",
+    "address": "17c King Street, Wallasey, Merseyside",
+    "postalCode": "L44 8AT"
+  },
+  {
+    "name": "Wallington (Mint House) Test Centre",
+    "address": "Mint House, 6 Stanley Park Road, Wallington, Surrey",
+    "postalCode": "SM6 0PY"
+  },
+  {
+    "name": "Wanstead (Hermon Hill) Test Centre",
+    "address": "2 Devon House, Hermon Hill, Wanstead, London, Greater London",
+    "postalCode": "E11 2AW"
+  },
+  {
+    "name": "Warwick Test Centre",
+    "address": "Unit 7 Charles Court, Budbrooke Road, Warwick, Warwickshire",
+    "postalCode": "CV34 5LZ"
+  },
+  {
+    "name": "Watford Test Centre",
+    "address": "CP House, Otterspool Way, Watford, Hertfordshire",
+    "postalCode": "WD25 8HU"
+  },
+  {
+    "name": "Wednesbury Test Centre",
+    "address": "Knowles Street, Wednesbury, West Midlands",
+    "postalCode": "WS10 9HW"
+  },
+  {
+    "name": "West Didsbury Test Centre",
+    "address": "Unit 11, Christie Fields, West Didsbury, Manchester, Manchester",
+    "postalCode": "M21 7QY"
+  },
+  {
+    "name": "West Wickham (Kent) Test Centre",
+    "address": "56 Glebe Way, West Wickham, Kent",
+    "postalCode": "BR4 0RL"
+  },
+  {
+    "name": "Weston-Super-Mare Test Centre",
+    "address": "Plott 11 Sunnyside Road North, Industrial Estate, Weston Super Mare, Avon",
+    "postalCode": "BS23 3PZ"
+  },
+  {
+    "name": "Whitby Test Centre",
+    "address": "Unit F11, St Hilda's Business Centre, Green Lane, Whitby",
+    "postalCode": "YO22 4ET"
+  },
+  {
+    "name": "Whitchurch Test Centre",
+    "address": "The Lodge, Paul Moss, 30 Doddington, Whitchurch, North Yorkshire",
+    "postalCode": "SY13 1EN"
+  },
+  {
+    "name": "Wick MPTC Test Centre",
+    "address": "Unit 5E4, Wick Industrial Estate, Wick, Caithness",
+    "postalCode": "KW1 4QS"
+  },
+  {
+    "name": "Widnes Test Centre",
+    "address": "Everite Road, Widnes, Cheshire",
+    "postalCode": "WA8 8PT"
+  },
+  {
+    "name": "Winchester Test Centre",
+    "address": "Christchurch Road, Winchester, Hampshire, Hampshire",
+    "postalCode": "SO23 9SY"
+  },
+  {
+    "name": "Wolverhampton Test Centre",
+    "address": "Ashland Street, Wolverhampton, West Midlands",
+    "postalCode": "WV3 0BX"
+  },
+  {
+    "name": "Wood Green Test Centre",
+    "address": "The Gatehouse, Woodhall House, Lordship Lane, Wood Green, London",
+    "postalCode": "N22 5JW"
+  },
+  {
+    "name": "Worcester Test Centre",
+    "address": "Stanier Road, Warndon, Worcester, Worcestershire",
+    "postalCode": "WR4 9FE"
+  },
+  {
+    "name": "Workington Test Centre",
+    "address": "Stanley Street, Workington, Cumbria",
+    "postalCode": "CA14 2QG"
+  },
+  {
+    "name": "Worksop Test Centre",
+    "address": "Unit 4 The Point Business Park, Worksop, Nottinghamshire",
+    "postalCode": "S80 2BW"
+  },
+  {
+    "name": "Wrexham MPTC Test Centre",
+    "address": "Driving Standards Agency, Redwither Road, Wrexham, Clwyd",
+    "postalCode": "LL13 9RD"
+  },
+  {
+    "name": "Yeovil Test Centre",
+    "address": "2 Oxford Road, Pen Mill Trading Estate, Yeovil, Somerset",
+    "postalCode": "BA21 5HR"
+  },
+  {
+    "name": "York Test Centre",
+    "address": "St Marks House, 1 Heworth Green, York, North Yorkshire",
+    "postalCode": "YO31 7SX"
+  }
+]

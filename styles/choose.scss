@@ -1,0 +1,147 @@
+$color-disabled: rgba(3, 71, 255, 0.1);
+$color-disabled-text: rgba(3, 71, 255, 0.4);
+$color-grey: grey;
+
+.test-selection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #f9f9f9;
+  padding-top: 100px;
+
+  &__container {
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+
+  &__options {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-bottom: 20px;
+  }
+
+  &__option {
+    display: flex;
+    align-items: center;
+    padding: 15px 40px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+
+    &:hover {
+      border-color: #0347ff;
+    }
+
+    &.selected {
+      background-color: #0347ff;
+      color: #ffffff;
+      border-color: #0347ff;
+
+      span {
+        font-weight: bold;
+      }
+    }
+
+    span {
+      margin-left: 10px;
+      flex-grow: 1;
+      text-align: left;
+    }
+  }
+
+  &__subtest {
+    margin-top: 20px;
+    width: 100%;
+    max-width: 250px;
+    text-align: center;
+
+    label {
+      font-size: 16px;
+      color: #333;
+      margin-bottom: 10px;
+      display: block;
+    }
+
+    select {
+      width: 100%;
+      padding: 10px;
+      font-size: 16px;
+      border: 1px solid #e0e0e0;
+      border-radius: 8px;
+      background-color: #fff;
+      margin-top: 10px;
+    }
+  }
+
+  &__continue {
+    margin-top: auto;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+  }
+
+  &__button {
+    position: relative;
+    width: 300px;
+    height: 50px;
+    background-color: white;
+    color: #0347ff;
+    font-weight: 600;
+    border: none;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s;
+
+    &.disabled {
+      background-color: rgba(3, 71, 255, 0.1);
+      color: rgba(3, 71, 255, 0.4);
+      cursor: not-allowed;
+    }
+
+    &.active {
+      background-color: #0347ff;
+      color: #ffffff;
+      cursor: pointer;
+    }
+
+    .drag-handle {
+      position: relative;
+      z-index: 2;
+      width: 40px;
+      height: 40px;
+      background-color: white;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: background-color 0.3s;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+      .arrow {
+        font-size: 16px;
+        color: #0347ff;
+      }
+    }
+  }
+}

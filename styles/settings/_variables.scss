@@ -1,0 +1,117 @@
+@mixin color-dark {
+  @media (prefers-color-scheme: dark) {
+    @content;
+  }
+}
+@mixin max {
+  @media (min-width: 1400px) {
+    @content;
+  }
+}
+@mixin nbpp {
+  @media (min-width: 1400px) {
+    @content;
+  }
+}
+@mixin notebook-big-plus {
+  @media (min-width: 1400px) {
+    @content;
+  }
+}
+@mixin notebook-big {
+  @media (min-width: 1400px) {
+    @content;
+  }
+}
+@mixin notebook_only_width {
+  @media (min-width: 1400px) {
+    @content;
+  }
+}
+
+@mixin notebook {
+  @media (min-width: 1400px) and (min-height: 2000px) {
+    @content;
+  }
+}
+
+@mixin tablet_minHeight {
+  @media (min-width: 1024px) and (max-height: 2000px) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media (min-width: 1024px) {
+    @content;
+  }
+}
+
+
+@mixin mobile-mini-plus {
+  @media (min-width: 700px) {
+    @content;
+  }
+}
+
+@mixin mobile-mini {
+  @media (min-width: 450px) {
+    @content;
+  }
+}
+
+@mixin mobile-mini-minus {
+  @media (max-width: 350px) {
+    @content;
+  }
+}
+
+@mixin mobile{
+  @media  (min-width: 800px) {
+    @content;
+  }
+}
+
+@mixin mobile-about {
+  @media (min-width: 700px) and (max-width: 800px) {
+    @content;
+  }
+}
+
+@mixin tablet_minHeight {
+  @media (min-width: 1024px) and (max-height: 1300px) and (max-width: 2690px) {
+    @content;
+  }
+}
+
+@mixin notebook_minHeight {
+  @media (min-width: 1400px) and (max-height: 1300px) and (max-width: 2690px) {
+    @content;
+  }
+}
+
+@mixin minHeight {
+  @media (max-height: 1300px) {
+    @content;
+  }
+}
+
+@mixin minHeight_notebookBig {
+  @media (max-height: 1300px) and (min-width: 1600px) and (max-width: 2690px) {
+    @content;
+  }
+}
+
+@mixin minHeight_nbpp {
+  @media (max-height: 1300px) and (min-width: 2000px) and (max-width: 2690px) {
+    @content;
+  }
+}
+
+@mixin minHeight_max {
+  @media (max-height: 1300px) and (min-width: 2690px) {
+    @content;
+  }
+}
+
+

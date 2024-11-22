@@ -1,0 +1,8 @@
+{
+  "app_type": "node",
+  "start_script": "app.js",
+  "env": {
+    "NODE_ENV": "production",
+    "PORT": "3000"
+  }
+}

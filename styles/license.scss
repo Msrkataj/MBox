@@ -1,0 +1,195 @@
+.license-details {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 30px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 100px;
+
+  h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 8px;
+    text-align: center;
+  }
+
+  .subtitle {
+    color: #7d7d7d;
+    margin-bottom: 24px;
+    font-size: 16px;
+    text-align: center;
+  }
+
+  .form-group {
+    width: 100%;
+    margin: 30px;
+    p {
+      font-size: 0.8em;
+    }
+    label {
+      display: block;
+      margin-bottom: 10px;
+      font-weight: bold;
+      font-size: 14px;
+      color: $color-main3;
+    }
+
+    input[type="text"] {
+      width: 90%;
+      padding: 20px 12px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      margin-top: 5px;
+      font-size: 14px;
+    }
+
+    .radio-group {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-top: 8px;
+
+      label {
+        display: flex;
+        align-items: center;
+        font-size: 14px;
+        color: $color-main3;
+        cursor: pointer;
+
+        input {
+          margin-right: 8px;
+        }
+
+        &.selected {
+          color: #0347FF; // Niebieski kolor dla zaznaczonej opcji
+          font-weight: bold;
+        }
+      }
+    }
+  }
+
+  .license-details__continue {
+    display: flex;
+    justify-content: center;
+    margin-top: auto; // Wymusza przycisk na dole
+    padding-bottom: 50px; // Dodatkowy margines od góry
+  }
+
+  .license-details__button {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 300px;
+    height: 50px;
+    border: none;
+    border-radius: 30px;
+    padding: 0 20px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s;
+    font-size: 16px;
+
+    &.disabled {
+      background-color: rgba(3, 71, 255, 0.2);
+      color: #999;
+      cursor: not-allowed;
+    }
+
+    &.active {
+      background-color: #0347FF;
+      color: #fff;
+
+      .drag-handle {
+        background-color: #fff;
+        color: #0347FF;
+      }
+    }
+
+    .drag-handle {
+      position: absolute;
+      right: -15px;
+      width: 60px;
+      height: 60px;
+      background-color: $color-white;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: background-color 0.3s;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+      .arrow {
+        font-size: 16px;
+        color: $color-main;
+      }
+    }
+  }
+}
+.special-needs-container {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 15px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  border: 1px solid #e0e0e0;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: #f9f9f9; /* Subtelna zmiana koloru przy najechaniu */
+  }
+
+  .section-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #0347ff;
+    margin: 16px 0;
+    text-transform: uppercase; /* Dodanie wielkich liter dla podkreślenia sekcji */
+    letter-spacing: 1px;
+  }
+
+  .checkbox-group {
+    display: flex;
+    flex-direction: column;
+    gap: 15px; /* Zmniejszenie odstępów dla bardziej kompaktowego wyglądu */
+    margin-bottom: 20px;
+
+
+  }
+  .checkbox-item {
+    display: flex;
+    align-items: center;
+    padding: 12px 15px;
+    background: #f9f9f9;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0; /* Dodanie obramowania dla wizualnego oddzielenia */
+    transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease;
+
+    &:hover {
+      background-color: #f1f8ff;
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1); /* Efekt podniesienia przy najechaniu */
+    }
+
+    input[type="checkbox"] {
+      margin-right: 15px;
+
+      cursor: pointer;
+      accent-color: #0347ff; /* Nowoczesne podkreślenie koloru pola */
+    }
+
+    label {
+      color: #333;
+      font-weight: 300;
+      cursor: pointer;
+      transition: color 0.3s ease;
+
+      &:hover {
+        color: #0347ff; /* Podkreślenie koloru tekstu przy najechaniu */
+      }
+    }
+  }
+}

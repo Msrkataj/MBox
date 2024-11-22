@@ -1,0 +1,121 @@
+.email-notification {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 100vh;
+  padding: 20px;
+  background-color: #0347ff;
+  color: white;
+
+  .image-container {
+    width: 100%;
+    max-width: 300px;
+    margin-bottom: 20px;
+  }
+
+  .subtitle {
+    font-size: 1.2em;
+    margin: 0;
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 2.5em;
+    font-weight: bold;
+    margin: 10px 0;
+    text-align: center;
+  }
+
+  .input-container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 400px;
+    margin-top: 20px;
+    position: relative;
+
+    input {
+      flex-grow: 1;
+      padding: 15px;
+      border: none;
+      border-radius: 30px;
+      font-size: 16px;
+      outline: none;
+      padding-right: 40px;
+    }
+
+    .input-icon {
+      position: absolute;
+      right: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 24px;
+      height: 24px;
+    }
+  }
+
+  .footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+
+    .skip-link {
+      color: white;
+      text-decoration: none;
+      font-size: 16px;
+      margin-bottom: 20px;
+      cursor: pointer;
+    }
+
+    .continue-button-container {
+      visibility: hidden; // Hidden by default
+
+      &.active {
+        visibility: visible; // Shown when a condition is met
+      }
+    }
+
+    .continue-button {
+      position: relative;
+      width: 300px;
+      height: 50px;
+      background-color: white;
+      color: #0347ff;
+      font-weight: 600;
+      border: none;
+      border-radius: 30px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 20px;
+      cursor: pointer;
+      text-decoration: none;
+      transition: background-color 0.3s;
+
+      &:hover {
+        background-color: darken(#0347ff, 10%);
+      }
+
+      .drag-handle {
+        position: relative;
+        width: 40px;
+        height: 40px;
+        background-color: #0347ff;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+        .arrow {
+          font-size: 16px;
+          color: white;
+        }
+      }
+    }
+  }
+}
+

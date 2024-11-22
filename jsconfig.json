@@ -1,7 +1,11 @@
 {
   "compilerOptions": {
     "paths": {
-      "@/*": ["./src/*"]
-    }
+      "@/*": [
+        "./src/*"
+      ]
+    },
+    "suppressImplicitAnyIndexErrors": true,
+    "skipLibCheck": true
   }
 }
